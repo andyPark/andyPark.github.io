@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey everyone, I'm originally from Raleigh, NC. I graduated in 2014 from the University of North Carolina, Chapel Hill with a B.A. in Computer Science. I then spent (almost) five years of my life at Microsoft in Redmond, WA working as a software engineer on the Microsoft Office team. While I was at MSFT I worked on the Office extensibility team (essentially plugins for Office apps). I learned a lot at Microsoft from some really great engineers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Now I'm back in Raleigh, NC and I am about to start a new job at Red Hat.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My interests lie in programming paradigms, database implementations, network optimization, etc etc (pretty much everything and the kitchen sink)
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my spare time, I like to read about technology, try to create new personal weight training records, and train my puppy dog, Yuna.
